@@ -1,1 +1,1 @@
-This is a different file
+This should produce a conflict.
